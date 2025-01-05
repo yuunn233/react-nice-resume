@@ -22,7 +22,7 @@
 /* a. General Styles
 /* ------------------------------------------------------------------ */
 
-body { background: #0f0f0f; }
+body { background: #A7F4F6; }
 
 /* ------------------------------------------------------------------ */
 /* b. Header Styles
@@ -30,8 +30,8 @@ body { background: #0f0f0f; }
 
 header {
    position: relative;
-   height: 800px;
-   min-height: 500px;
+   height: 80px;
+   min-height: 50px;
    width: 100%;
    
    text-align: center;
@@ -51,7 +51,7 @@ header .banner {
    margin: 0 auto;
    width: 85%;
    padding-bottom: 30px;
-   text-align: center;
+   text-align: left;
 }
 
 header .banner-text { width: 100%; }
@@ -273,7 +273,7 @@ ul#nav li.current a { color: #fe6928; }
 }
 #resume .date {
    font: 15px/24px 'opensans-regular', sans-serif;
-   margin-top: 6px;
+   margin-top: 20px;
 }
 
 /*----------------------------------------------*/
