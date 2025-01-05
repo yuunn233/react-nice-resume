@@ -96,14 +96,14 @@ q:before, q:after {
 }
 
 ins {
-   background-color: #ff9;
-   color: #000;
+   background-color: #A7F4F6;
+   color: #255;
    text-decoration: none;
 }
 
 mark {
    background-color: #A7F4F6;
-   color: #555;
+   color: #ff9;
 }
 
 del { text-decoration: line-through; }
