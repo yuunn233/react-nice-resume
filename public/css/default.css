@@ -137,17 +137,17 @@ table {
 }
 
 html {
-   font-size: 62.5%;
+   font-size: 50%;
    -webkit-font-smoothing: antialiased;
 }
 
 body {
-   background: #fff;
+   background: #255;
    font-family: 'opensans-regular', sans-serif;
    font-weight: normal;
    font-size: 15px;
    line-height: 30px;
-	color: #838C95;
+	color: #A7F4F6;
 
    -webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 	-webkit-text-size-adjust: 100%;
@@ -167,8 +167,8 @@ h1 { font-size: 38px; line-height: 42px; margin-bottom: 12px; letter-spacing: -1
 h2 { font-size: 28px; line-height: 36px; margin-bottom: 6px; }
 h3 { font-size: 22px; line-height: 30px; margin-bottom: 12px; }
 h4 { font-size: 20px; line-height: 30px; margin-bottom: 6px; }
-h5 { font-size: 18px; line-height: 30px; }
-h6 { font-size: 14px; line-height: 30px; }
+h5 { font-size: 5px; line-height: 3px; }
+h6 { font-size: 5px; line-height: 3px; }
 .subheader { }
 
 p { margin: 0 0 30px 0; }
